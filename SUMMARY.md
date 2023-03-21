@@ -16,7 +16,7 @@
 
 ## 各mod介绍和说明 <a href="#mod-description" id="mod-description"></a>
 
-* [📓 MOD列表](mod-description/mod-list/README.md)
+* [📓 MOD列表](mod-description/mod-list.md)
   * [Yes Steve Model ！](mod-description/mod-list/yes-steve-model.md)
 
 ## 配置文件和说明 <a href="#configuration-files" id="configuration-files"></a>
