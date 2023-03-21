@@ -11,18 +11,19 @@
 
 * [📎 整合包下载](guides/download.md)
 * [🛠 快速上手](guides/fast-and-brutal-guid/README.md)
-  * [📝 Setting permissions](guides/fast-and-brutal-guid/setting-permissions.md)
-  * [🧑 Inviting Members](guides/fast-and-brutal-guid/inviting-members.md)
+  * [🌎 服务器端安装](guides/fast-and-brutal-guid/fu-wu-qi-duan-an-zhuang.md)
+  * [💻 客户端安装](guides/fast-and-brutal-guid/ke-hu-duan-an-zhuang.md)
 
 ## 各mod介绍和说明 <a href="#mod-description" id="mod-description"></a>
 
 * [📓 MOD列表](mod-description/mod-list.md)
   * [Yes Steve Model ！](mod-description/mod-list/yes-steve-model.md)
 
-## 配置文件和说明 <a href="#configuration-files" id="configuration-files"></a>
+## 服务器运维 <a href="#maintenance" id="maintenance"></a>
 
-* [🎨 For Designers](configuration-files/for-designers.md)
-* [🖥 For Developers](configuration-files/for-developers.md)
+* [📦 存档备份](maintenance/cun-dang-bei-fen.md)
+* [🤖 自动客户端更新](maintenance/zi-dong-ke-hu-duan-geng-xin.md)
+* [📇 常用指令](maintenance/chang-yong-zhi-ling.md)
 
 ## 常见问题和故障排除 <a href="#faq" id="faq"></a>
 
