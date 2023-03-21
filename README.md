@@ -1,5 +1,5 @@
 ---
-description: 一个精致的机械动力整合包。
+description: 一款精致的机械动力双端整合包。
 cover: .gitbook/assets/新建画布1.png
 coverY: 183.92364170337737
 ---
