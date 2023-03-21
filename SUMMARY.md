@@ -9,14 +9,14 @@
 
 ## 安装说明和步骤 <a href="#guides" id="guides"></a>
 
-* [📎 Understanding Projects](guides/understanding-projects.md)
-* [🛠 Getting set up](guides/getting-set-up/README.md)
-  * [📝 Setting permissions](guides/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](guides/getting-set-up/inviting-members.md)
+* [📎 整合包下载](guides/download.md)
+* [🛠 快速上手](guides/fast-and-brutal-guid/README.md)
+  * [📝 Setting permissions](guides/fast-and-brutal-guid/setting-permissions.md)
+  * [🧑 Inviting Members](guides/fast-and-brutal-guid/inviting-members.md)
 
 ## 各mod介绍和说明 <a href="#mod-description" id="mod-description"></a>
 
-* [📪 Making a post](mod-description/making-a-post.md)
+* [📓 MOD列表](mod-description/mod-list.md)
 
 ## 配置文件和说明 <a href="#configuration-files" id="configuration-files"></a>
 
@@ -25,10 +25,10 @@
 
 ## 常见问题和故障排除 <a href="#faq" id="faq"></a>
 
-* [🎨 For Designers](faq/for-designers.md)
-* [🖥 For Developers](faq/for-developers.md)
+* [❔ 常见问题解答](faq/faq.md)
+* [🖥 故障排除和解决方法](faq/troubleshooting-and-solutions.md)
 
 ## 版权声明和致谢 <a href="#copyright-acknowledgments" id="copyright-acknowledgments"></a>
 
-* [🎨 For Designers](copyright-acknowledgments/for-designers.md)
-* [鸣谢](copyright-acknowledgments/acknowledgments.md)
+* [© 版权声明](copyright-acknowledgments/copyright.md)
+* [🙏 鸣谢](copyright-acknowledgments/acknowledgments.md)

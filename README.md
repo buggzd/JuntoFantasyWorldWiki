@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # 👋 欢迎来到Junto的幻想乡
 
 {% hint style="info" %}
@@ -36,14 +32,14 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="guides/getting-set-up/" %}
-[getting-set-up](guides/getting-set-up/)
+{% content-ref url="guides/fast-and-brutal-guid/" %}
+[fast-and-brutal-guid](guides/fast-and-brutal-guid/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](guides/getting-set-up/setting-permissions.md)
+{% content-ref url="guides/fast-and-brutal-guid/setting-permissions.md" %}
+[setting-permissions.md](guides/fast-and-brutal-guid/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/getting-set-up/inviting-members.md" %}
-[inviting-members.md](guides/getting-set-up/inviting-members.md)
+{% content-ref url="guides/fast-and-brutal-guid/inviting-members.md" %}
+[inviting-members.md](guides/fast-and-brutal-guid/inviting-members.md)
 {% endcontent-ref %}
