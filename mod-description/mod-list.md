@@ -10,7 +10,7 @@
 
 ## 美化类
 
-<table><thead><tr><th>MOD名称</th><th>MOD功能</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>[光影][IRIS]oculus-mc1.18.2-1.2.5a.jar</td><td>光影</td><td></td></tr><tr><td>[美化][文化瑰宝]Cultural Treasures - Paintings[1.18.2]1.0.jar</td><td>添加传统中国绘画作品到游戏中，增强游戏美感</td><td></td></tr><tr><td><a href="mod-list/yes-steve-model.md">[美化][是史蒂夫模型]yesstevemodel-1.18.2-release-1.1.2.jar</a></td><td>更改玩家模型，让游戏中的主角更加个性化</td><td><a href="https://www.mcmod.cn/class/8616.html">https://www.mcmod.cn/class/8616.html</a></td></tr><tr><td>[美化][更好的成就]BetterAdvancements-1.18.2-0.2.0.129.jar</td><td>增强游戏成就系统，添加更多有趣的成就，提高游戏可玩性</td><td></td></tr><tr><td>[美化][更好的聊天栏]beautifiedchatclient_1.18.2-1.1.jar</td><td>美化聊天栏，增加更多聊天栏样式，让游戏更加个性化</td><td></td></tr><tr><td>[美化][静谧四季]SereneSeasons-1.18.2-7.0.0.15.jar</td><td>添加四季系统到游戏中，让游戏更加真实，增加游戏体验感</td><td></td></tr></tbody></table>
+<table><thead><tr><th>MOD名称</th><th>MOD功能</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>[光影][IRIS]oculus-mc1.18.2-1.2.5a.jar</td><td>光影</td><td></td></tr><tr><td>[美化][文化瑰宝]Cultural Treasures - Paintings[1.18.2]1.0.jar</td><td>添加传统中国绘画作品到游戏中，增强游戏美感</td><td></td></tr><tr><td><a href="mei-hua-lei-mod/yes-steve-model.md">[美化][是史蒂夫模型]yesstevemodel-1.18.2-release-1.1.2.jar</a></td><td>更改玩家模型，让游戏中的主角更加个性化</td><td><a href="https://www.mcmod.cn/class/8616.html">https://www.mcmod.cn/class/8616.html</a></td></tr><tr><td>[美化][更好的成就]BetterAdvancements-1.18.2-0.2.0.129.jar</td><td>增强游戏成就系统，添加更多有趣的成就，提高游戏可玩性</td><td></td></tr><tr><td>[美化][更好的聊天栏]beautifiedchatclient_1.18.2-1.1.jar</td><td>美化聊天栏，增加更多聊天栏样式，让游戏更加个性化</td><td></td></tr><tr><td>[美化][静谧四季]SereneSeasons-1.18.2-7.0.0.15.jar</td><td>添加四季系统到游戏中，让游戏更加真实，增加游戏体验感</td><td></td></tr></tbody></table>
 
 ## 装饰类
 

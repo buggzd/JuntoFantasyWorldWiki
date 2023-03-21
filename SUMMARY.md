@@ -5,7 +5,7 @@
 ## 关于本整合包 <a href="#overview" id="overview"></a>
 
 * [💡 这是一个什么样的整合包？](overview/zhe-shi-yi-ge-shi-mo-yang-de-zheng-he-bao.md)
-* [📅 版本更新记录](overview/ban-ben-geng-xin-ji-lu.md)
+* [📅 版本更新记录](overview/our-features.md)
 
 ## 安装说明和步骤 <a href="#guides" id="guides"></a>
 
@@ -17,7 +17,8 @@
 ## 各mod介绍和说明 <a href="#mod-description" id="mod-description"></a>
 
 * [📓 MOD列表](mod-description/mod-list.md)
-  * [Yes Steve Model ！](mod-description/mod-list/yes-steve-model.md)
+* [🌸 美化类MOD](mod-description/mei-hua-lei-mod/README.md)
+  * [Yes Steve Model ！](mod-description/mei-hua-lei-mod/yes-steve-model.md)
 
 ## 服务器运维 <a href="#maintenance" id="maintenance"></a>
 
