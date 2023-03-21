@@ -1,22 +1,28 @@
+---
+description: 一个精致的机械动力整合包。
+cover: .gitbook/assets/新建画布1.png
+coverY: 0
+---
+
 # 👋 欢迎来到Junto的幻想乡
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+本整合包，以及本文档全部由BUGGZD一人制作。
 {% endhint %}
 
-## 预览
+## 简介
 
-Here are a couple of example overviews from products with really great docs:
+### **核心玩法有哪些 ？**
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> 核心玩法有 科技向的**机械动力 ，**种田向的**农夫乐事**，建筑向的**CFM家具**，日式向的**樱  ，**同时本整合包收录了很多食品类，装饰类的小mod。
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+### **为什么要做这个整合包？**
+
+> 一年前，我在尝试开mc服务器的时候，一直希望寻找一个开包即用的机械动力服务器整合包。但是逛遍各个论坛网站，只有机械动力官方的 _ABOVE AND BEYOND_ 是一个功能完整的机械动力服务器整合包。因此我就有了自己制作服务器整合包的想法，并花费了大半年的时间自己折腾，期间还经历了 Create  升级到 0.5 版本，同时从 Fabric 模组引擎转移到了 Forge。
+
+### **一个 **<mark style="color:yellow;">**开箱即用**</mark>** 的 **<mark style="color:green;">**服务器**</mark>** + **<mark style="color:blue;">**客户端**</mark>** 整合包**
+
+> 制作这个整合包的目的就是开箱即用，服主只需要把服务器整合包放到服务器上，输入一条简单的启动命令就可以直接运行服务器，玩家只需要导入一次整合包以后就可以**自动更新**mod。
 
 ## 快速指南
 
@@ -30,7 +36,7 @@ Here are a couple of example overviews from products with really great docs:
 
 ## 开始上手
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+快速搭建自己的服务器和安装整合包。
 
 {% content-ref url="guides/fast-and-brutal-guid/" %}
 [fast-and-brutal-guid](guides/fast-and-brutal-guid/)
