@@ -6,13 +6,37 @@
 
 ## 服务器部署问题
 
-<details>
+### 服务端启动无法连接服务器
 
-<summary>服务端启动无法连接服务器</summary>
+#### 服务器防火墙
 
-关闭防火墙
+查看防火墙状态：
 
-</details>
+```bash
+sudo iptables -L -n
+```
+
+关闭防火墙：
+
+```bash
+sudo ufw disable
+```
+
+#### 云服务器开启25565端口
+
+以腾讯云为例：
+
+选择防火墙
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+选择 添加规则
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+添加25565端口
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
