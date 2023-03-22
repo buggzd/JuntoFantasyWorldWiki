@@ -42,10 +42,10 @@ coverY: 183.92364170337737
 [fast-and-brutal-guid](guides/fast-and-brutal-guid/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/fast-and-brutal-guid/setting-permissions.md" %}
-[setting-permissions.md](guides/fast-and-brutal-guid/setting-permissions.md)
-{% endcontent-ref %}
-
 {% content-ref url="guides/fast-and-brutal-guid/inviting-members.md" %}
 [inviting-members.md](guides/fast-and-brutal-guid/inviting-members.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/fast-and-brutal-guid/setting-permissions.md" %}
+[setting-permissions.md](guides/fast-and-brutal-guid/setting-permissions.md)
 {% endcontent-ref %}
