@@ -4,7 +4,15 @@
 **Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
 {% endhint %}
 
-## GitHub Integrations
+## 服务器部署问题
+
+<details>
+
+<summary>服务端启动无法连接服务器</summary>
+
+关闭防火墙
+
+</details>
 
 Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
