@@ -77,7 +77,7 @@ TODO:支持docker部署
 1. 下载服务端，进入一个你希望放置服务器的文件夹。
 
 ```bash
-sudo curl -LO https://github.com/buggzd/JuntoFantasyWorld/raw/main/server/server-forge40-1-60.tar
+sudo curl -LO https://github.com/buggzd/JuntoFantasyWorld/releases/download/v7.5/server-v7.5.tar
 ```
 
 如果出现:
@@ -95,13 +95,13 @@ sudo apt install curl
 2. 下载后解包
 
 ```bash
-sudo tar -xvf server-forge40-1-60.tar
+sudo tar -xvf server-v7.5.tar
 ```
 
 3. 进入文件夹
 
 ```bash
-cd server-forge40.1.60
+cd server-v7.5
 ```
 
 4. 运行服务器
