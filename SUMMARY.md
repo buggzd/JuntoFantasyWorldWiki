@@ -13,6 +13,7 @@
 * [🛠 快速上手](guides/fast-and-brutal-guid/README.md)
   * [🌎 服务器端安装](guides/fast-and-brutal-guid/setting-permissions.md)
   * [💻 客户端安装](guides/fast-and-brutal-guid/inviting-members.md)
+  * [🎮 游戏内常用快捷键](guides/fast-and-brutal-guid/hotkeys.md)
 
 ## 各mod介绍和说明 <a href="#mod-description" id="mod-description"></a>
 

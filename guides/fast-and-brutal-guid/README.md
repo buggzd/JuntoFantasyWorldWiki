@@ -1,33 +1,10 @@
 # 🛠 快速上手
 
-<details>
+{% content-ref url="setting-permissions.md" %}
+[setting-permissions.md](setting-permissions.md)
+{% endcontent-ref %}
 
-<summary>Step1: Creating your organization</summary>
+{% content-ref url="inviting-members.md" %}
+[inviting-members.md](inviting-members.md)
+{% endcontent-ref %}
 
-
-
-</details>
-
-<details>
-
-<summary>Step 2: Inviting your team</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 3: Making your first post</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 4: Publishing a post</summary>
-
-
-
-</details>
