@@ -7,7 +7,7 @@ coverY: 183.92364170337737
 # 👋 欢迎来到Junto的幻想乡
 
 {% hint style="info" %}
-本整合包，以及本文档全部由BUGGZD一人制作。
+本整合包，以及本文档全部由[BUGGZD](https://www.dongjunto.xyz/)一人制作。
 {% endhint %}
 
 ## 简介
