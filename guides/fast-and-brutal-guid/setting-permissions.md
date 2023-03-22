@@ -74,7 +74,7 @@ TODO:支持docker部署
 
 <summary>Linux-ubuntu</summary>
 
-1. 下载服务端，进入一个你希望放置服务器的文件夹。
+1. 进入一个你希望放置服务器的文件夹，下载服务端。（也可以通过云盘下载后上传到服务器）
 
 ```bash
 sudo curl -LO https://github.com/buggzd/JuntoFantasyWorld/releases/download/v7.5/server-v7.5.tar

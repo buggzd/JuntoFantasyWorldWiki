@@ -1,10 +1,18 @@
 # 📎 整合包下载
 
-## How Projects work
+## GitHub仓库
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+{% embed url="https://github.com/buggzd/JuntoFantasyWorld" %}
+整合包地址
+{% endembed %}
 
-### The Basics
+进入GitHub，点击release选择下载。
+
+服务端：带有server的tar文件。
+
+客户端：.zip文件。
+
+### 阿里云
 
 Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
 
