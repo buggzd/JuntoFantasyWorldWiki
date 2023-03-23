@@ -10,7 +10,7 @@
 
 
 
-{% embed url="https://youtube.com/watch?si=EnSIkaIECMiOmarE&v=PYtsD-X_UiQ" %}
+{% embed url="https://www.bilibili.com/video/BV1fS4y1c7Cd" %}
 
 <details>
 
