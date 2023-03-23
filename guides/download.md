@@ -2,15 +2,19 @@
 
 ## GitHub仓库
 
-{% embed url="https://github.com/buggzd/JuntoFantasyWorld" %}
-整合包地址
-{% endembed %}
+{% hint style="info" %}
+GitHub下载方法：
 
 进入GitHub，点击release选择下载。
 
 服务端：带有server的tar文件。
 
 客户端：.zip文件。
+{% endhint %}
+
+{% embed url="https://github.com/buggzd/JuntoFantasyWorld" %}
+整合包地址
+{% endembed %}
 
 ## 阿里云
 

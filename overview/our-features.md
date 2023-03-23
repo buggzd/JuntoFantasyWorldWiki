@@ -1,17 +1,290 @@
 # 📅 版本更新记录
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
+<details>
 
-## Awesome Feature One
+<summary>2022-05</summary>
 
-Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
+V2=本次更新内容=
 
-![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
+一、新增游戏mod
 
-## Awesome Feature Two
+「机械动力」 (V0.4.1)
 
-Get amazing things done with awesome feature two. But remember that awesome feature one and three exist too. In fact, Awesome Product is full of awesome features.
+◆上手难度：5 ☆
 
-![](https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80)
+◆趣味性：5 ☆
+
+◆机械动力是一个围绕着建筑、装饰和机械的新兴模组，所添加的元素旨在为玩家提供全新的建筑与自动化体验，并尽可能多地为玩家预留自定义空间。在机器与能源方面，模组做出了极大的创新。机器不再由传统科技模组中乏味的电线供能，而是需要玩家搭建机械传动系统驱动。加工过程也不再是枯燥的 GUI 里等待进度条一遍遍被填满，机器可以直接与世界中的物品交互，并且加工时有着精美的动画。
+
+
+
+\=机械动力参考手册=
+
+英文手册：[https://create.fandom.com/wiki/Create\_Mod\_Wiki](https://create.fandom.com/wiki/Create\_Mod\_Wiki)
+
+中文教程：[https://www.mcmod.cn/post/2293.html](https://www.mcmod.cn/post/2293.html)
+
+视频教程：[https://www.bilibili.com/video/BV1B64y1u7Ho](https://www.bilibili.com/video/BV1B64y1u7Ho)
+
+</details>
+
+<details>
+
+<summary>2022-06</summary>
+
+V3=本次更新内容=&#x20;
+
+一、全新游戏 mod&#x20;
+
+「农夫乐事」 (V0.2.1)&#x20;
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：4 ☆&#x20;
+
+◆美观性：5 ☆&#x20;
+
+◆农夫乐事主要丰富了耕作与烹饪方面的内容，并为现有的物品和方块提供了更多用途。 借助一套乡村风格的工具，你可以让自己的菜园子变得更具特色，为自己和自己的宠物准 备更健康的菜肴或零嘴，甚至为你在广袤大地上的冒险提供一点更好的装备。 本模组同时还希望让那些平时为玩家所无视的物品（比如牛奶、甜菜根、蘑菇等等）有更 多的用处。希望这能鼓励你让自己种植的作物更多样化！
+
+「文化瑰宝 - 画作」(V1.0)
+
+&#x20;◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：5 ☆&#x20;
+
+◆中国传世名画皆为历代不二至宝，高头巨帙，历经磨难流传有序。至清乾嘉时期，陆续 收入内府，遂与世隔绝。随后历经战火纷繁，流散四海，如今皆为各大博物馆镇馆之宝， 它们都具有引首、题跋、历代名家题记、收藏玺印等浓厚文化痕迹，向世人展示中国艺术 瑰宝的真正魅力。 本模组添加众多中国古代名画，同时每幅画有三个尺寸可供观赏，且清晰度较高。 目前已经添加了《清明上河图》，《步辇图》，《洛神赋图》，《千里江山图》。
+
+「象棋」 (V1.2)&#x20;
+
+◆上手难度：3 ☆&#x20;
+
+◆趣味性：4 ☆&#x20;
+
+◆美观性：2 ☆&#x20;
+
+◆在 Minecraft 中有时也需要讲究策略，这与传统博弈游戏“象棋”的理念有一定的相似之 处。此模组在游戏中添加了象棋和棋盘等方块，目前支持的棋类有中国象棋、五子棋。
+
+&#x20;参考手册：[https://www.mcmod.cn/class/6109.html](https://www.mcmod.cn/class/6109.html)
+
+\=农夫乐事参考手册=&#x20;
+
+英文手册：[https://github.com/vectorwing/FarmersDelight/wiki ](https://github.com/vectorwing/FarmersDelight/wiki)
+
+中文教程：[https://www.mcmod.cn/post/2305.html](https://www.mcmod.cn/post/2305.html)
+
+</details>
+
+<details>
+
+<summary>2022-07</summary>
+
+V4=本次更新内容=
+
+&#x20;一、游戏 mod 「机械动力」 (V0.5.0b)&#x20;
+
+◆上手难度：5 ☆&#x20;
+
+◆趣味性：4 ☆&#x20;
+
+◆美观性：5 ☆&#x20;
+
+◆v0.5 版 蒸汽动力(暂译) 中 Create 再一次以超多的高质量新内容令广大玩家赞叹，这 些内容包括：蒸汽动力系统，在提供一种新的动力的同时为模组增添了更多工业气息(取代 了原熔炉引擎)；翻牌显示器系统，提供高度可自定义且便捷的的信息追踪和显示功能，动 画也是非常的浪漫；（更新那么快杀了我吧） 以及最为重磅的 铁路系统 ，Create 设计了一种独立于原版铁轨和矿车的铁路交通系统， 玩家可以在三维空间中自由搭建具有平滑曲线的火车轨道，更令人赞叹的是在这些轨道上 可以实现与很多物流模拟游戏相同的模拟现实铁路的列车运行逻辑——玩家可以在铁轨上 设置车站，为每辆自动驾驶列车设置运行时刻表，并通过铁路信号系统保障多辆列车在轨 道中的安全运行——当然，列车应用了机械动力经典的动态结构系统，玩家可用方块自由 搭建想要的列车，并且与之前的矿车结构类似，列车可以搭载物品和流体的仓储、可以搭 载作业元件(动力钻头、动力锯等)，并且最为奇妙的是，开发者们还实现了列车穿越下界传 送门以及无需区块加载也可运行(列车仅能运行不能与世界交互)的功能，进一步增强了铁路 系统的趣味和可玩性； 最后，此次更新还加入了不少趣味性和装饰性方块，并且所有的内容都保持了 Create 一 贯的高美观高易用设计理念，可见开发者不仅奇思妙想丰富，还具有相当扎实的开发能力 以及相当的匠心。总而言之，蒸汽动力(暂译) 版本再一次成功将 Create 的趣味和可玩性 提高了一个档次，并且让玩家们感觉到这一传奇模组所具备的无限潜力。
+
+\=机械动力参考手册=&#x20;
+
+英文手册：https://create.fandom.com/wiki/Create\_Mod\_Wiki&#x20;
+
+中文教程：https://www.bilibili.com/video/BV1FV4y1n7Ng
+
+</details>
+
+<details>
+
+<summary>2022-08</summary>
+
+V5=本次更新内容=
+
+&#x20;一、游戏 mod&#x20;
+
+「樱」 (V1.0.1)&#x20;
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：5 ☆&#x20;
+
+◆呐呐呐，故乡的撒库拉开了
+
+&#x20;“妈妈，今天的晚饭是什么？”&#x20;
+
+在村子里，孩子玩耍了一整天之后跑回家里。
+
+等着他的是一餐丰盛的烧鱼定食......
+
+&#x20;焰火晚会，人们穿着自己的和服在祭典中游玩，观赏着焰火......
+
+&#x20;晚上，总有一些醉倒的人拿着酒瓶在乱舞......
+
+&#x20;在竹林和枫树林之间，落魄的浪人手持着刀试图抢劫过客......
+
+&#x20;夜樱和温泉是绝配的，与石灯也是美好的......&#x20;
+
+该睡觉了，在自家的被褥里......&#x20;
+
+
+
+「机械动力：奶茶店」 (V1.9.2)&#x20;
+
+◆上手难度：2 ☆&#x20;
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：3 ☆&#x20;
+
+◆你要的是那个“QQ ㄋㄟㄋㄟ好喝到咩噗茶” 吗？
+
+
+
+「连锁采集」 (V0.19)&#x20;
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：1 ☆&#x20;
+
+◆实用性：5 ☆&#x20;
+
+◆没错，那个 mod 又回来了！
+
+
+
+二、优化
+
+1. 更新中文拼音搜索
+2. 更新输入法冲突修正
+3. 更新服务器 JEI，可以直接点击 JEI 一键合成了 4.光影从 optifine 更改为 Oculus 帧数优化，提升了大概 30%
+
+</details>
+
+<details>
+
+<summary>2022-09</summary>
+
+V6=本次更新内容=&#x20;
+
+一、游戏 mod 「车万女仆」 (V1.0.0 alpha)&#x20;
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：5 ☆&#x20;
+
+◆初次见面，请多关照，你就是我的主人么？
+
+本模组添加了一种全新的生物——女仆。 玩家需要击杀夜晚生成的妖精女仆和森近霖之助，获取得到 P 点，而后修建多方块祭 坛，通过祭坛举行仪式来召唤女仆。女仆在召唤过后能够使用手持蛋糕右键才能驯服，而 后就可右键为女仆进行各种皮肤、功能设定了。 夜晚在平原生物群系上生成的妖精，会主动攻击玩家和女仆，杀死她能够掉落一定数量的 P 点，P 点在祭坛合成中至关重要 祭坛召唤女仆时的样子。默认需要煤炭块、铁块、金块、青金石块、红石块、钻石以及 0.5 数量的 P 点才能够召唤女仆 女仆可以非常简单的切换各种皮肤模型，可以加装各种背包、饰品、护甲、旗指物等，还 能帮助你进行一些简单的种田、剪羊毛、喂食、繁殖动物等工作。 女仆皮肤模型还有诸多拓展包可在游戏内直接下载到，加装后女仆能够拥有更多的皮肤模 型，同时本模组拓展模型包也非常容易制作。 本模组还有与女仆附加的部分物品方块，诸如雕像、手办、载具、坐垫等
+
+</details>
+
+<details>
+
+<summary>2022-11</summary>
+
+V7=本次更新内容=&#x20;
+
+一、游戏 mod
+
+「农夫乐事」 (V2.0.0)&#x20;
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：5 ☆
+
+◆更新一些食物（详情见 https://www.mcmod.cn/class/version/2820.html?jump=19090）
+
+「Supplementaries」 (V1.5.13)&#x20;
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：5 ☆&#x20;
+
+◆它为游戏增加了很多美观且实用的物品，在生活质量、装饰建筑和红石器械上都有非常 多的额外内容和调整。模组中几乎每一个物品都与原版的内容具有非常高的互动性，并且 其美术风格也能够很好地融入其中。Supplementaries（直译“补充”）正如其名，是对原版 体验的补充和增强。( https://www.mcmod.cn/class/3555.html )
+
+「相约星期四」 (R5)&#x20;
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：5 ☆&#x20;
+
+◆不提了 v 我 50！( https://www.mcmod.cn/class/5979.html )
+
+</details>
+
+<details>
+
+<summary>2023-01</summary>
+
+V7.4=本次更新内容=&#x20;
+
+一、游戏 mod
+
+「MrCrayfish 的家具」 (V7.0.0pre29)
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆
+
+◆美观性：5 ☆&#x20;
+
+◆如果你想好好装修你的房子，那你一定需要这个模组！MrCrayfish 的家具模组增加了大量的家具、建筑物等物 品，例如电视、沙发、冰箱等等，这些都起到了很好的装饰作用，部分物品还有特殊的功能。（ https://www.mcmod.cn/class/263.html ）
+
+「网络音乐机」 (V1.0.1)&#x20;
+
+◆上手难度：1 ☆
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：5 ☆&#x20;
+
+◆该模组添加了一个能够直接播放网络流音乐的 CD 机，其行为和原版 CD 机完全一致，在 CD 机附近的其他 玩家也可以听到你播放的音乐！通过 NBT 数据可以自定义 CD 所播放的歌曲，并对网易云音乐特地添加了支持 ！。(https://www.mcmod.cn/class/4935.html )
+
+「巴迪卡牌」 (v3.1.1)
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆&#x20;
+
+◆美观性：3 ☆&#x20;
+
+◆你想过在 Minecraft 中收集卡牌吗？尝试一下这个模组吧！巴迪卡牌模组添加了六套卡包，你可以在 地牢、村 庄 等的宝箱中找到这些卡牌。用三张任意的卡牌和一个 皮革 可以合成一个 巴迪卡牌夹，每个卡牌夹可以存放 54 张卡。努力成为一个收藏家吧！( https://www.mcmod.cn/class/4154.html )
+
+</details>
+
+<details>
+
+<summary>2023-03</summary>
+
+V7.5=本次更新内容=&#x20;
+
+一、游戏 mod
+
+「Yes Steve Model，是，史蒂夫模组」 (V7.0.0pre29)
+
+◆上手难度：1 ☆&#x20;
+
+◆趣味性：3 ☆
+
+◆美观性：5 ☆&#x20;
+
+◆Yes Steve Model 模组是一个修改原版玩家模型的 1.18.2 Minecraft Forge 模组。它采用了 [GeckoLib](https://www.mcmod.cn/class/3232.html) 作为核心，使用 Minecraft 基岩版模型和动画文件。从而使玩家能够随心所欲的自定义玩家模型和动画。（ [https://www.mcmod.cn/class/263.html ](https://www.mcmod.cn/class/8616.html)）
+
+</details>
+
