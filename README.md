@@ -1,10 +1,10 @@
 ---
-description: 一款精致的机械动力双端整合包。
-cover: .gitbook/assets/新建画布1.png
-coverY: 183.92364170337737
+description: 一款精致的和风机械动力双端整合包。
 ---
 
 # 👋 欢迎来到Junto的幻想乡
+
+<figure><img src=".gitbook/assets/JUNTO.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 本整合包，以及本文档全部由[BUGGZD](https://www.dongjunto.xyz/)一人制作。
